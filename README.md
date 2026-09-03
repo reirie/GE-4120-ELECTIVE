@@ -1,3 +1,3 @@
-GE 4120 ELECTIVE
+**GE 4120 ELECTIVE**
 
 Hello 
