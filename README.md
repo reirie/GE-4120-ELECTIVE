@@ -166,162 +166,20 @@ Creating a GitHub account was challenging because I was not familiar with the bu
 <tr>
 
 <!-- VERTICAL PRELIMS BANNER -->
-
-<td width="18%" align="center" valign="middle">
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/✧-ENCHANTED-6A3FA0?style=for-the-badge&labelColor=29133F" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/P-R-E-L-I-M-S-C9A7FF?style=for-the-badge&labelColor=3D205E&color=9B72CF" />
-
-<td width="18%" align="center" valign="middle">
-
-<div align="center">
-
 <table>
-  🌸<br>
-🦋<br>
-  
-<tr><td align="center" bgcolor="#6A3FA0"><font color="#F3E8FF"><b>P</b></font></td></tr>
-<tr><td align="center" bgcolor="#6A3FA0"><font color="#F3E8FF"><b>R</b></font></td></tr>
-<tr><td align="center" bgcolor="#6A3FA0"><font color="#F3E8FF"><b>E</b></font></td></tr>
-<tr><td align="center" bgcolor="#6A3FA0"><font color="#F3E8FF"><b>L</b></font></td></tr>
-<tr><td align="center" bgcolor="#6A3FA0"><font color="#F3E8FF"><b>I</b></font></td></tr>
-<tr><td align="center" bgcolor="#6A3FA0"><font color="#F3E8FF"><b>M</b></font></td></tr>
-<tr><td align="center" bgcolor="#6A3FA0"><font color="#F3E8FF"><b>S</b></font></td></tr>
-</table>
-
-
-🍄<br>
-✨
-
-</div>
-
-</td>
-
-</div>
-
-</td>
-
-<!-- HORIZONTAL ACTIVITY CARDS -->
-
-<td width="82%" valign="top">
-
-
-<table width="100%">
 <tr>
-
-<!-- ACTIVITY 1 -->
-
-<td width="33%" align="center" valign="top">
-
-<p align="center">
-  <img src="https://img.shields.io/badge/✿_ACTIVITY_I_✿-8B5FBF?style=for-the-badge&labelColor=351B52" />
-</p>
-
-<h3 align="center">
-  <font color="#D8B4FE">🌸 The Fairy's First Bloom 🌸</font>
-</h3>
-
-<p align="center">
-  🦋 ✨ 🍃
-</p>
-
-<p align="center">
-  <img src="YOUR_ACTIVITY_1_IMAGE_URL_HERE" width="220" alt="Activity 1"/>
-</p>
-
-<p align="center">
-  <em>Your first project description goes here.</em>
-</p>
-
-<p align="center">
-  <sub>༺♡༻</sub>
-</p>
-
+<td width="13%" valign="middle" align="center">
+<img src="https://img.shields.io/badge/P-5a189a?style=for-the-badge" alt="P" /><br/>
+<img src="https://img.shields.io/badge/R-6a1b9a?style=for-the-badge" alt="R" /><br/>
+<img src="https://img.shields.io/badge/E-7b2cbf?style=for-the-badge" alt="E" /><br/>
+<img src="https://img.shields.io/badge/L-8e24aa?style=for-the-badge" alt="L" /><br/>
+<img src="https://img.shields.io/badge/I-9d4edd?style=for-the-badge" alt="I" /><br/>
+<img src="https://img.shields.io/badge/M-ab47bc?style=for-the-badge" alt="M" /><br/>
+<img src="https://img.shields.io/badge/S-c77dff?style=for-the-badge" alt="S" /><br/><br/>
+<sub>🌸 🦋 🍄</sub><br/>
+<sub>✨ 🌿 🧚🏻‍♀️</sub><br/><br/>
 </td>
 
-<!-- ACTIVITY 2 -->
-
-<td width="33%" align="center" valign="top">
-
-<p align="center">
-  <img src="https://img.shields.io/badge/✿_ACTIVITY_II_✿-A78BFA?style=for-the-badge&labelColor=351B52" />
-</p>
-
-<h3 align="center">
-  <font color="#D8B4FE">🍄 The Mushroom Haven 🍄</font>
-</h3>
-
-<p align="center">
-  🌷 ✨ 🌿
-</p>
-
-<p align="center">
-  <img src="YOUR_ACTIVITY_2_IMAGE_URL_HERE" width="220" alt="Activity 2"/>
-</p>
-
-<p align="center">
-  <em>Your second project description goes here.</em>
-</p>
-
-<p align="center">
-  <sub>༺♡༻</sub>
-</p>
-
+<sub>✨ 🌿 🧚🏻‍♀️</sub><br/><br/>
+<sub>╚══ ⋆⋅☆⋅⋆ ══╝</sub>
 </td>
-
-<!-- ACTIVITY 3 -->
-
-<td width="33%" align="center" valign="top">
-
-<p align="center">
-  <img src="https://img.shields.io/badge/✿_ACTIVITY_III_✿-C4A1FF?style=for-the-badge&labelColor=351B52" />
-</p>
-
-<h3 align="center">
-  <font color="#D8B4FE">✨ The Stardust Garden ✨</font>
-</h3>
-
-<p align="center">
-  🧚🏻‍♀️ 🦋 🌸
-</p>
-
-<p align="center">
-  <img src="YOUR_ACTIVITY_3_IMAGE_URL_HERE" width="220" alt="Activity 3"/>
-</p>
-
-<p align="center">
-  <em>Your third project description goes here.</em>
-</p>
-
-<p align="center">
-  <sub>༺♡༻</sub>
-</p>
-
-</td>
-
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
-
-<!-- ✧ FOOTER ORNAMENT ✧ -->
-
-<p align="center">
-  🌙 ⋆｡°✩ 𓆩♡𓆪 ✩°｡⋆ 🦋
-  <br>
-  <em>Every little creation holds a little magic.</em>
-  <br>
-  🍄 ✧ 🌸 ✧ ✨ ✧ 🌿
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4" width="100%" />
-</p>
-
