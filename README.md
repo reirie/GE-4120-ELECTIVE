@@ -82,8 +82,10 @@ alt="My GitHub Journey"/>
 </div>
 
 ---
-
+<!-- MY GITHUB JOURNEY -->
+<p align="justify">
 I created a GitHub repository to compile what I designed and built. First, I created a GitHub account using my school email for easy access. After that, I looked for the repository icon to create a repository for my files.
+</p>
 
 </td>
 
@@ -101,7 +103,7 @@ alt="Building My Portfolio"/>
 </div>
 
 ---
-
+<p align="justify">
 I turned on the README text to let me write text in my files. Then, I started creating files for each activity by clicking "Add file" at the top of the site. Next, I added my activity files, such as my designs, along with written text explaining how I came up with each design. I made my digital portfolio as simple as possible so it would be easier for others to read.
 
 </td>
@@ -120,7 +122,7 @@ alt="Challenges and Learning"/>
 </div>
 
 ---
-
+<p align="justify">
 Creating a GitHub account was challenging because I was not familiar with the buttons or how the website works. No matter what tutorials I watched, I would try to understand the process, but I might still get things wrong. So, I asked my professor to help me create the files and teach me how to set up my repository.
 
 </td>
