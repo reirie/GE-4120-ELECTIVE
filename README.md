@@ -1,60 +1,26 @@
 <div align="center">
 
-  <!-- Enchanted Forest & Purple Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:240046,50:5a189a,100:9d4edd&height=260&section=header&text=GE%204120%20ELECTIVE&fontSize=42&fontColor=f3e8ff&animation=fadeIn&fontAlignY=38&desc=✨%2021st%20Century%20IT%20Skills%20✨&descAlignY=60&descSize=22&descColor=e0aaff" width="100%" alt="GE 4120 Elective Header"/>
-
-  <!-- Mystical Typing Subtitle -->
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=22&duration=3500&pause=1000&color=C77DFF&center=true&vCenter=true&width=750&lines=🌿+Exploring+Digital+Frontiers+in+Healthcare+🌿;🦋+Bridging+Compassion+%26+21st+Century+Tech+🦋;✨+Portfolio+%26+Coursework+Repository+✨" alt="Typing SVG" />
-  </a>
+  <!-- Main Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:240046,50:5a189a,100:9d4edd&height=260&section=header&text=GE%204120%20ELECTIVE&fontSize=42&fontColor=f3e8ff&animation=fadeIn&fontAlignY=38&desc=🧚‍♀️%2021ST%20CENTURY%20IT%20SKILLS%20🌿&descAlignY=62&descSize=22&descColor=e0aaff" width="100%" alt="GE 4120 Elective: 21st Century IT Skills"/>
 
   <br/>
 
-  <!-- Forest-themed Decorative Divider -->
+  <!-- Decorative Emoji Accent Line -->
   <p>
-    <img src="https://img.shields.io/badge/Theme-Enchanted_Forest-5a189a?style=for-the-badge&logo=leaflet&logoColor=e0aaff" alt="Theme"/>
-    <img src="https://img.shields.io/badge/Course-GE_4120_Elective-7b2cbf?style=for-the-badge&logo=sparkles&logoColor=f3e8ff" alt="Course"/>
-    <img src="https://img.shields.io/badge/Focus-21st_Century_IT_Skills-9d4edd?style=for-the-badge&logo=bookstack&logoColor=ffffff" alt="Focus"/>
+    ✨ 🍄 🦋 🌿 🔮 🌿 🦋 🍄 ✨
   </p>
 
+  <br/>
+
+  <!-- Student Name in Elegant Legible Script (Alex Brush) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Alex+Brush&weight=400&size=42&duration=1&pause=999999&color=9D4EDD&center=true&vCenter=true&width=850&height=65&lines=Student+name%3A+Nicole+Marie+T.+Monta%C3%B1a" alt="Student name: Nicole Marie T. Montaña" />
+
+  <!-- Program, Year and Section in Elegant Legible Script (Cormorant Garamond Italic) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&style=italic&size=26&duration=1&pause=999999&color=C77DFF&center=true&vCenter=true&width=750&height=45&lines=Program%2C+Year+and+Section+%3A+NURSING+4D" alt="Program, Year and Section : NURSING 4D" />
+
+  <br/>
+
+  <!-- Purple Waving Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9d4edd,50:5a189a,100:240046&height=120&section=footer" width="100%" alt="Footer Wave"/>
+
 </div>
-
----
-
-### 🍄 Welcome to the Digital Glade
-
-> *"Where technology meets nature's wisdom, and modern innovation empowers future healthcare."*
-
-Welcome to my official repository for **GE 4120 Elective: 21st Century IT Skills**. This space serves as a digital sanctuary housing my coursework, laboratory exercises, and projects focused on digital literacy, information management, and technological proficiency in the modern era.
-
-### 🌿 Course Highlights & Explorations
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">🧚‍♀️ Digital Literacy & Tools</h4>
-      <ul>
-        <li>Cloud collaboration & productivity suites</li>
-        <li>Information evaluation & cyber hygiene</li>
-        <li>Modern documentation & version control</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="center">🔮 Healthcare & Tech Synergy</h4>
-      <ul>
-        <li>Health informatics & digital record systems</li>
-        <li>Data organization & visual presentation</li>
-        <li>Emerging technologies in patient care</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-### 🦋 Repository Map
-
-```text
-🌲 GE-4120-21st-Century-IT-Skills
- ┣ 📂 01-Laboratory-Activities
- ┣ 📂 02-Case-Studies-and-Reflections
- ┣ 📂 03-Digital-Projects
- ┗ 📜 README.md
