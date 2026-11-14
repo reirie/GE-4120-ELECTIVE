@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Fancy Ornamental Purple Frame -->
+  <!-- Fancy Ornamental Purple Header Frame -->
   <table>
     <tr>
       <td align="center">
@@ -23,6 +23,52 @@
 
   <br/><br/>
 
-  <!-- Fancy Purple & Fairy/Forest Divider -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3c096c,50:9d4edd,100:3c096c&height=4&section=header" width="85%" alt="Purple Divider" />
-  <p>⋆⋅☆⋅⋆ 🌿 🦋 ✨ 🍄 ✨ 🦋 🌿 ⋆⋅☆⋅⋆</p>
+  <!-- Fancy Ornamental Divider -->
+  <p>
+    ⋅•⋅⊰∙∘☽༓☾∘∙⊱⋅•⋅ 🧚‍♀️ 🌿 ✨ 🍄 🦋 🍄 ✨ 🌿 🧚‍♀️ ⋅•⋅⊰∙∘☽༓☾∘∙⊱⋅•⋅
+  </p>
+
+  <br/>
+
+  <!-- Fancy Box Design: About My Portfolio -->
+  <table>
+    <tr>
+      <td width="820">
+        <div align="center">
+          <sub>╔══════════════════ ⋆⋅☆⋅⋆ ══════════════════╗</sub>
+          <br/><br/>
+          <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=24&duration=1&pause=999999&color=C77DFF&center=true&vCenter=true&width=500&height=42&lines=✨+About+My+Portfolio+✨" alt="About My Portfolio" />
+          <br/>
+          <sub>🌿 🦋 🍄 🔮 🍄 🦋 🌿</sub>
+        </div>
+
+        <br/>
+
+        <h3>🌸 <i>Introduction &amp; Design Purpose</i></h3>
+        <p>
+          Hello everyone! My name is <b>Nicole Marie Montana</b>, and I am presenting the projects I have completed over the past few weeks. This subject has taught me a lot about how design is important not only to catch one's attention, but also to create a design that is easy for people to read, is more organized, and conveys its branding.
+        </p>
+
+        <div align="center"><sub>── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ──</sub></div>
+
+        <h3>🌿 <i>Building My GitHub Repository</i></h3>
+        <p>
+          I created a GitHub repository to compile what I designed and built. First, I created a GitHub account using my school email for easy access. After that, I look for the repository icon to create a repository for my files. I turned on the <code>README.md</code> text to let me write text in my files. Then, I started creating the files for each activity by clicking <b>"Add file"</b> at the top of the site. Next, I added my activity files, such as my designs, along with written text explaining how I came up with each design. I made my digital portfolio as simple as possible so it would be easier for others to read.
+        </p>
+
+        <div align="center"><sub>── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ──</sub></div>
+
+        <h3>🦋 <i>Overcoming Challenges</i></h3>
+        <p>
+          Creating a GitHub account was challenging because I was not familiar with the buttons or how the website works. No matter the tutorials I watched, I would try to get it, but I might be wrong about it. So, I asked my professor to help create the files and taught me how to set up my repository.
+        </p>
+
+        <br/>
+        <div align="center">
+          <sub>╚══════════════════ ⋆⋅☆⋅⋆ ══════════════════╝</sub>
+        </div>
+      </td>
+    </tr>
+  </table>
+
+</div>
