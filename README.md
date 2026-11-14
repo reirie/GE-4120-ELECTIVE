@@ -1,8 +1,60 @@
-**GE 4120 ELECTIVE**
+<div align="center">
 
-Hello everyone! 
-My name is Nicole Marie Montana, and I am presenting the projects I have completed over the past few weeks. This subject has taught me a lot about how design is important not only to catch one's attention, but also to create a design that is easy for people to read, is more organized, and conveys its branding. 
+  <!-- Enchanted Forest & Purple Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:240046,50:5a189a,100:9d4edd&height=260&section=header&text=GE%204120%20ELECTIVE&fontSize=42&fontColor=f3e8ff&animation=fadeIn&fontAlignY=38&desc=✨%2021st%20Century%20IT%20Skills%20✨&descAlignY=60&descSize=22&descColor=e0aaff" width="100%" alt="GE 4120 Elective Header"/>
 
-I created a GitHub repository to compile what I designed and built. First, I created a GitHub account using my school email for easy access. After that, I look for the repository icon to create a repository for my files. I turned on the READ.ME text to let me write text in my files. Then, I started creating the files for each activity by clicking "Add file" at the top of the site. Next, I added my activity files, such as my designs, along with written text explaining how I came up with each design. I made my digital portfolio as simple as possible so it would be easier for others to read. 
+  <!-- Mystical Typing Subtitle -->
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=22&duration=3500&pause=1000&color=C77DFF&center=true&vCenter=true&width=750&lines=🌿+Exploring+Digital+Frontiers+in+Healthcare+🌿;🦋+Bridging+Compassion+%26+21st+Century+Tech+🦋;✨+Portfolio+%26+Coursework+Repository+✨" alt="Typing SVG" />
+  </a>
 
-Creating a GitHub account was challenging because I was not familiar with the buttons or how the website works. No matter the tutorials I watched, I would try to get it, but I might be wrong about it. So, I asked my professor to help create the files and taught me how to set up my repository.
+  <br/>
+
+  <!-- Forest-themed Decorative Divider -->
+  <p>
+    <img src="https://img.shields.io/badge/Theme-Enchanted_Forest-5a189a?style=for-the-badge&logo=leaflet&logoColor=e0aaff" alt="Theme"/>
+    <img src="https://img.shields.io/badge/Course-GE_4120_Elective-7b2cbf?style=for-the-badge&logo=sparkles&logoColor=f3e8ff" alt="Course"/>
+    <img src="https://img.shields.io/badge/Focus-21st_Century_IT_Skills-9d4edd?style=for-the-badge&logo=bookstack&logoColor=ffffff" alt="Focus"/>
+  </p>
+
+</div>
+
+---
+
+### 🍄 Welcome to the Digital Glade
+
+> *"Where technology meets nature's wisdom, and modern innovation empowers future healthcare."*
+
+Welcome to my official repository for **GE 4120 Elective: 21st Century IT Skills**. This space serves as a digital sanctuary housing my coursework, laboratory exercises, and projects focused on digital literacy, information management, and technological proficiency in the modern era.
+
+### 🌿 Course Highlights & Explorations
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">🧚‍♀️ Digital Literacy & Tools</h4>
+      <ul>
+        <li>Cloud collaboration & productivity suites</li>
+        <li>Information evaluation & cyber hygiene</li>
+        <li>Modern documentation & version control</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">🔮 Healthcare & Tech Synergy</h4>
+      <ul>
+        <li>Health informatics & digital record systems</li>
+        <li>Data organization & visual presentation</li>
+        <li>Emerging technologies in patient care</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+### 🦋 Repository Map
+
+```text
+🌲 GE-4120-21st-Century-IT-Skills
+ ┣ 📂 01-Laboratory-Activities
+ ┣ 📂 02-Case-Studies-and-Reflections
+ ┣ 📂 03-Digital-Projects
+ ┗ 📜 README.md
