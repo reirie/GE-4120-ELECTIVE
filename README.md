@@ -16,37 +16,26 @@
       </td>
     </tr>
   </table>
-
   <br/>
-
   <!-- Personal Metadata Banner (Cursive Labels + Clean Standard Values) -->
   <img src="https://img.shields.io/badge/𝓢𝓽𝓾𝓭𝓮𝓷𝓽_𝓷𝓪𝓶𝓮-Nicole_Marie_T._Montaña-7b2cbf?style=for-the-badge&labelColor=3c096c&logo=sparkles&logoColor=e0aaff" alt="Student name: Nicole Marie T. Montaña" />
   <img src="https://img.shields.io/badge/𝓟𝓻𝓸𝓰𝓻𝓪𝓶%2C_𝓨𝓮𝓪𝓻_𝓪𝓷𝓭_𝓢𝓮𝓬𝓽𝓲𝓸𝓷-NURSING_4D-9d4edd?style=for-the-badge&labelColor=5a189a&logo=leaflet&logoColor=f3e8ff" alt="Program, Year and Section : NURSING 4D" />
 
 </div>
-
 <!-- 💜 ABOUT MY PORTFOLIO 💜 -->
-
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=30&duration=1&pause=999999&color=B57EDC&center=true&vCenter=true&width=700&height=70&lines=About+My+Portfolio"
 alt="About My Portfolio"/>
 
 <p>
   <em>🌸 A little journey of creativity, learning, and design 🌸</em>
 </p>
-
 ━━━━━━━━━━━━━━━ ✦ ❀ ✦ ━━━━━━━━━━━━━━━
-
 </div>
-
 <!-- 🌷 INTRODUCTION 🌷 -->
-
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=28&duration=1&pause=999999&color=9D4EDD&center=true&vCenter=true&width=550&height=65&lines=Hello+Everyone!"
 alt="Hello Everyone"/>
-
 </div>
 
 <table>
@@ -58,31 +47,21 @@ alt="Hello Everyone"/>
 My name is Nicole Marie Montana, and I am presenting the projects I have completed over the past few weeks. This subject has taught me a lot about how design is important not only to catch one's attention, but also to create a design that is easy for people to read, is more organized, and conveys its branding.
 
 💜 ✧･ﾟ: *✧･ﾟ:* 💜
-
 </td>
 </tr>
 </table>
-
 <br/>
 
 <!-- 🦋 THREE REFLECTION SECTIONS 🦋 -->
-
 <table>
 <tr>
-
 <!-- SECTION 1 -->
 
 <td width="33%" valign="top">
-
 <div align="center">
-
-
 <img src="https://img.shields.io/badge/🦋_MY_GITHUB_JOURNEY_-7B2CBF?style=for-the-badge&labelColor=3C096C"/>
-
 <br/>
-
 🦋 ✧ 🌿 ✧ 🦋
-
 </div>
 
 ---
@@ -158,13 +137,11 @@ Creating a GitHub account was challenging because I was not familiar with the bu
   <br>
   🦋 🌸 🍄 ✨ 🌿 🧚🏻‍♀️
 </p>
-
 <p align="center">
   ════════ ༺♡༻ ════════
 </p>
 <table width="100%">
 <tr>
-
 <!-- VERTICAL PRELIMS BANNER -->
 <table>
 <tr>
@@ -180,6 +157,3 @@ Creating a GitHub account was challenging because I was not familiar with the bu
 <sub>✨ 🌿 🧚🏻‍♀️</sub><br/><br/>
 </td>
 
-<sub>✨ 🌿 🧚🏻‍♀️</sub><br/><br/>
-<sub>╚══ ⋆⋅☆⋅⋆ ══╝</sub>
-</td>
