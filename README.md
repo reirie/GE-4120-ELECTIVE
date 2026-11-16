@@ -162,10 +162,16 @@ Creating a GitHub account was challenging because I was not familiar with the bu
 <h4>🌸 ACTIVITY 1<br/><i>The Cozy Coffee Spell</i></h4>
 <img src="https://img.shields.io/badge/Project-FREE_COFFEE!_Poster-7b2cbf?style=flat-square&labelColor=3c096c" alt="FREE COFFEE! Poster" />
 <br/><br/>
+<a href="https://github.com/reirie/GE-4120-ELECTIVE/tree/main/ACTIVITY%201">
 <img src="https://github.com/reirie/GE-4120-ELECTIVE/blob/main/ACTIVITY%201/ACTIVITY%201%20-%20GE%204120_MONTANA%20(1).png?raw=true" width="100%" alt="FREE COFFEE! Poster" />
+</a>
 <br/><br/>
 <sub>✨ 🌿 🌸 🌿 ✨</sub>
 <p>I designed an eye-catching “FREE COFFEE!” poster using design principles to create a clear, balanced, and cozy visual presentation.</p>
+<a href="https://github.com/reirie/GE-4120-ELECTIVE/tree/main/ACTIVITY%201">
+<img src="https://img.shields.io/badge/✨_View_Activity_1-7b2cbf?style=for-the-badge&labelColor=3c096c" alt="View Activity 1" />
+</a>
+<br/>
 <sub>╰───── ⋆⋅☆⋅⋆ ─────╯</sub>
 </td>
 
@@ -174,10 +180,16 @@ Creating a GitHub account was challenging because I was not familiar with the bu
 <h4>🌙 ACTIVITY 2<br/><i>Arcana Moonlit Jewels</i></h4>
 <img src="https://img.shields.io/badge/Project-Arcana_Moonlit_Jewelries_Logo-7b2cbf?style=flat-square&labelColor=3c096c" alt="Arcana Moonlit Jewelries Logo" />
 <br/><br/>
+<a href="https://github.com/reirie/GE-4120-ELECTIVE/tree/main/ACTIVITY%202">
 <img src="https://github.com/reirie/GE-4120-ELECTIVE/blob/main/ACTIVITY%202/LOGO.png?raw=true" width="100%" alt="Arcana Moonlit Jewelries Logo" />
+</a>
 <br/><br/>
 <sub>✨ 🦋 🌙 🦋 ✨</sub>
 <p>I created a moon-inspired jewelry logo using elegant typography and dreamy colors to establish a magical and feminine brand identity.</p>
+<a href="https://github.com/reirie/GE-4120-ELECTIVE/tree/main/ACTIVITY%202">
+<img src="https://img.shields.io/badge/✨_View_Activity_2-7b2cbf?style=for-the-badge&labelColor=3c096c" alt="View Activity 2" />
+</a>
+<br/>
 <sub>╰───── ⋆⋅☆⋅⋆ ─────╯</sub>
 </td>
 
@@ -186,10 +198,16 @@ Creating a GitHub account was challenging because I was not familiar with the bu
 <h4>✨ ACTIVITY 3<br/><i>SleepSmart: A Stardust Solution</i></h4>
 <img src="https://img.shields.io/badge/Project-Sleep_Health_Infographic-7b2cbf?style=flat-square&labelColor=3c096c" alt="Sleep Health Infographic" />
 <br/><br/>
+<a href="https://github.com/reirie/GE-4120-ELECTIVE/tree/main/ACTIVITY%203">
 <img src="https://github.com/reirie/GE-4120-ELECTIVE/blob/main/ACTIVITY%203/Infographic_MONTANA.png?raw=true" width="100%" alt="Sleep Health Infographic" />
+</a>
 <br/><br/>
 <sub>✨ 🍄 🌿 🍄 ✨</sub>
 <p>I designed a sleep-health infographic introducing SleepSmart, a mobile app concept that promotes better sleep through technology and healthy habits.</p>
+<a href="https://github.com/reirie/GE-4120-ELECTIVE/tree/main/ACTIVITY%203">
+<img src="https://img.shields.io/badge/✨_View_Activity_3-7b2cbf?style=for-the-badge&labelColor=3c096c" alt="View Activity 3" />
+</a>
+<br/>
 <sub>╰───── ⋆⋅☆⋅⋆ ─────╯</sub>
 </td>
 </tr>
@@ -199,4 +217,5 @@ Creating a GitHub account was challenging because I was not familiar with the bu
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0aaff,50:9d4edd,100:240046&height=100&section=footer" width="100%" alt="Lavender Footer Wave" />
 
+</div>
 </div>
