@@ -174,7 +174,7 @@ Creating a GitHub account was challenging because I was not familiar with the bu
 <h4>🌙 ACTIVITY 2<br/><i>Arcana Moonlit Jewels</i></h4>
 <img src="https://img.shields.io/badge/Project-Arcana_Moonlit_Jewelries_Logo-7b2cbf?style=flat-square&labelColor=3c096c" alt="Arcana Moonlit Jewelries Logo" />
 <br/><br/>
-<img src="https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=500&q=80" width="100%" alt="Arcana Moonlit Jewelries Logo" />
+<img src="https://github.com/reirie/GE-4120-ELECTIVE/blob/main/ACTIVITY%202/LOGO.png?raw=true" width="100%" alt="Arcana Moonlit Jewelries Logo" />
 <br/><br/>
 <sub>✨ 🦋 🌙 🦋 ✨</sub>
 <p>I created a moon-inspired jewelry logo using elegant typography and dreamy colors to establish a magical and feminine brand identity.</p>
@@ -186,7 +186,7 @@ Creating a GitHub account was challenging because I was not familiar with the bu
 <h4>✨ ACTIVITY 3<br/><i>SleepSmart: A Stardust Solution</i></h4>
 <img src="https://img.shields.io/badge/Project-Sleep_Health_Infographic-7b2cbf?style=flat-square&labelColor=3c096c" alt="Sleep Health Infographic" />
 <br/><br/>
-<img src="https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=500&q=80" width="100%" alt="Sleep Health Infographic" />
+<img src="https://github.com/reirie/GE-4120-ELECTIVE/blob/main/ACTIVITY%203/Infographic_MONTANA.png?raw=true" width="100%" alt="Sleep Health Infographic" />
 <br/><br/>
 <sub>✨ 🍄 🌿 🍄 ✨</sub>
 <p>I designed a sleep-health infographic introducing SleepSmart, a mobile app concept that promotes better sleep through technology and healthy habits.</p>
