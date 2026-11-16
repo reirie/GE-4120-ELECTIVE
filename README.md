@@ -212,10 +212,42 @@ Creating a GitHub account was challenging because I was not familiar with the bu
 </td>
 </tr>
 </table>
+<br/>
+</div>
+</div>
+<br/>
+<br/>
+<table>
+<tr>
+<td align="center">
+<sub>╔═════════════════════════ ⋆⋅☆⋅⋆ ═════════════════════════╗</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/M-3c096c?style=for-the-badge" alt="M" />
+<img src="https://img.shields.io/badge/I-5a189a?style=for-the-badge" alt="I" />
+<img src="https://img.shields.io/badge/D-6a1b9a?style=for-the-badge" alt="D" />
+<img src="https://img.shields.io/badge/T-7b2cbf?style=for-the-badge" alt="T" />
+<img src="https://img.shields.io/badge/E-8e24aa?style=for-the-badge" alt="E" />
+<img src="https://img.shields.io/badge/R-9d4edd?style=for-the-badge" alt="R" />
+<img src="https://img.shields.io/badge/M-ab47bc?style=for-the-badge" alt="M" />
+<img src="https://img.shields.io/badge/S-c77dff?style=for-the-badge" alt="S" />
+<br/>
+<sub>🧚🏻‍♀️ 🌿 🌸 ✨ 🦋 ✨ 🌸 🌿 🧚🏻‍♀️</sub>
+<br/><br/>
+<h4>🔮 ACTIVITY 4 — <i>Enchanted Slides &amp; Collaborative Magic</i></h4>
+<img src="https://img.shields.io/badge/Project-Google_Slides_Presentation-7b2cbf?style=flat-square&labelColor=3c096c" alt="Google Slides Presentation" />
+<br/><br/>
+<p>For our midterm showcase, I crafted an engaging presentation exploring <strong>Google Slides</strong>—highlighting how this Google Workspace tool turns ideas into captivating, collaborative visual stories. ✨</p>
+<a href="https://github.com/reirie/GE-4120-ELECTIVE/tree/main/ACTIVITY%204">
+<img src="https://img.shields.io/badge/✨_View_Activity_4-7b2cbf?style=for-the-badge&labelColor=3c096c" alt="View Activity 4" />
+</a>
+<br/><br/>
+<sub>╚═════════════════════════ ⋆⋅☆⋅⋆ ═════════════════════════╝</sub>
+</td>
+</tr>
+</table>
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0aaff,50:9d4edd,100:240046&height=100&section=footer" width="100%" alt="Lavender Footer Wave" />
 
-</div>
 </div>
