@@ -157,3 +157,46 @@ Creating a GitHub account was challenging because I was not familiar with the bu
 <sub>✨ 🌿 🧚🏻‍♀️</sub><br/><br/>
 </td>
 
+<td width="29%" valign="top" align="center">
+<sub>╭───── ⋆⋅☆⋅⋆ ─────╮</sub>
+<h4>🌸 ACTIVITY 1<br/><i>The Cozy Coffee Spell</i></h4>
+<img src="https://img.shields.io/badge/Project-FREE_COFFEE!_Poster-7b2cbf?style=flat-square&labelColor=3c096c" alt="FREE COFFEE! Poster" />
+<br/><br/>
+<img src="https://github.com/reirie/GE-4120-ELECTIVE/blob/main/ACTIVITY%201/ACTIVITY%201%20-%20GE%204120_MONTANA%20(1).png?raw=true" width="100%" alt="FREE COFFEE! Poster" />
+<br/><br/>
+<sub>✨ 🌿 🌸 🌿 ✨</sub>
+<p>I designed an eye-catching “FREE COFFEE!” poster using design principles to create a clear, balanced, and cozy visual presentation.</p>
+<sub>╰───── ⋆⋅☆⋅⋆ ─────╯</sub>
+</td>
+
+<td width="29%" valign="top" align="center">
+<sub>╭───── ⋆⋅☆⋅⋆ ─────╮</sub>
+<h4>🌙 ACTIVITY 2<br/><i>Arcana Moonlit Jewels</i></h4>
+<img src="https://img.shields.io/badge/Project-Arcana_Moonlit_Jewelries_Logo-7b2cbf?style=flat-square&labelColor=3c096c" alt="Arcana Moonlit Jewelries Logo" />
+<br/><br/>
+<img src="https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=500&q=80" width="100%" alt="Arcana Moonlit Jewelries Logo" />
+<br/><br/>
+<sub>✨ 🦋 🌙 🦋 ✨</sub>
+<p>I created a moon-inspired jewelry logo using elegant typography and dreamy colors to establish a magical and feminine brand identity.</p>
+<sub>╰───── ⋆⋅☆⋅⋆ ─────╯</sub>
+</td>
+
+<td width="29%" valign="top" align="center">
+<sub>╭───── ⋆⋅☆⋅⋆ ─────╮</sub>
+<h4>✨ ACTIVITY 3<br/><i>SleepSmart: A Stardust Solution</i></h4>
+<img src="https://img.shields.io/badge/Project-Sleep_Health_Infographic-7b2cbf?style=flat-square&labelColor=3c096c" alt="Sleep Health Infographic" />
+<br/><br/>
+<img src="https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=500&q=80" width="100%" alt="Sleep Health Infographic" />
+<br/><br/>
+<sub>✨ 🍄 🌿 🍄 ✨</sub>
+<p>I designed a sleep-health infographic introducing SleepSmart, a mobile app concept that promotes better sleep through technology and healthy habits.</p>
+<sub>╰───── ⋆⋅☆⋅⋆ ─────╯</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0aaff,50:9d4edd,100:240046&height=100&section=footer" width="100%" alt="Lavender Footer Wave" />
+
+</div>
