@@ -1,1 +1,1 @@
-
+We were tasked with creating a one-page website on the AI website tool app called Replit. We tried to generate a prompt that suited our taste for the website; mine was an autumn-themed ecoaction- an environmental awareness website with lots of tools and even a quiz that was generated using the app. However, one major setback is that I was never able to generate using the Replit app due to its locked subscription which costs a lot of money, so I used an alternative website AI app instead called base44 where it doesnt a subscription to generate a website. 
