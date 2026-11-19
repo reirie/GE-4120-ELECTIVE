@@ -1,1 +1,5 @@
 
+This activity was about creating a one-page professional nursing resume using two AI tools: ChatGPT and Gemini AI. We provided our personal information, educational background, skills, and career objectives, then compared how the two AI tools generated and designed our resumes. We evaluated their differences in structure, clarity, formatting, and overall quality.
+
+
+Through this activity, I learned how AI tools can help create professional documents more easily and efficiently. I discovered that ChatGPT and Gemini have different approaches to generating resumes: ChatGPT produced a more creative and visually appealing design, while Gemini provided a simpler, more formal, and professional layout. One challenge I encountered was comparing which output was more suitable for a nursing resume, but I addressed this by examining their differences in formatting, wording, and organization. I also learned the importance of reviewing AI-generated information to ensure its accuracy and completeness. In the future, I can apply this knowledge by using AI tools to improve my professional documents while making sure to personalize and check the final output.
