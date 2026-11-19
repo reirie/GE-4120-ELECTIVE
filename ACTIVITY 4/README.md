@@ -1,1 +1,1 @@
-
+My groupmates and I reported on and presented Google Slides, including what it is and how it works. This helped me realize how to create a PowerPoint presentation in Google Slides and the advantages of using that platform. There are some icons I was not familiar with, but I was able to figure them out by searching or watching a tutorial. I could use google slides for future projects when I need to create a presentation or a report for visuals.
