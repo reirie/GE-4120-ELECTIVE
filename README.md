@@ -248,6 +248,86 @@ Creating a GitHub account was challenging because I was not familiar with the bu
 
 <br/>
 
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="13%" valign="middle" align="center">
+<sub>╔══ ⋆⋅☆⋅⋆ ══╗</sub><br/><br/>
+<img src="https://img.shields.io/badge/P-240046?style=for-the-badge" alt="P" /><br/>
+<img src="https://img.shields.io/badge/R-3c096c?style=for-the-badge" alt="R" /><br/>
+<img src="https://img.shields.io/badge/E-5a189a?style=for-the-badge" alt="E" /><br/>
+<sub>✦</sub><br/>
+<img src="https://img.shields.io/badge/F-6a1b9a?style=for-the-badge" alt="F" /><br/>
+<img src="https://img.shields.io/badge/I-7b2cbf?style=for-the-badge" alt="I" /><br/>
+<img src="https://img.shields.io/badge/N-8e24aa?style=for-the-badge" alt="N" /><br/>
+<img src="https://img.shields.io/badge/A-9d4edd?style=for-the-badge" alt="A" /><br/>
+<img src="https://img.shields.io/badge/L-ab47bc?style=for-the-badge" alt="L" /><br/>
+<img src="https://img.shields.io/badge/S-c77dff?style=for-the-badge" alt="S" /><br/><br/>
+<sub>🌸 🦋 🍄</sub><br/>
+<sub>✨ 🌿 🧚🏻‍♀️</sub><br/><br/>
+<sub>╚══ ⋆⋅☆⋅⋆ ══╝</sub>
+</td>
+
+<td width="29%" valign="top" align="center">
+<sub>╭───── ⋆⋅☆⋅⋆ ─────╮</sub>
+<h4>🔮 ACTIVITY 5<br/><i>AI Tools Activity</i></h4>
+<img src="https://img.shields.io/badge/Project-AI_Prompt_Image_Generation-7b2cbf?style=flat-square&labelColor=3c096c" alt="AI Tools Activity" />
+<br/><br/>
+<a href="https://github.com/reirie/GE-4120-ELECTIVE/tree/main/ACTIVITY%205">
+</a>
+<br/><br/>
+<sub>✨ 🌿 🌸 🌿 ✨</sub>
+<p>I learned how to create specific and detailed prompts using ChatGPT to generate images that match my ideas and imagination.</p>
+<a href="https://github.com/reirie/GE-4120-ELECTIVE/tree/main/ACTIVITY%205">
+<img src="https://img.shields.io/badge/✨_View_Activity_5-7b2cbf?style=for-the-badge&labelColor=3c096c" alt="View Activity 5" />
+</a>
+<br/>
+<sub>╰───── ⋆⋅☆⋅⋆ ─────╯</sub>
+</td>
+
+<td width="29%" valign="top" align="center">
+<sub>╭───── ⋆⋅☆⋅⋆ ─────╮</sub>
+<h4>🌿 ACTIVITY 6<br/><i>EcoAction Website</i></h4>
+<img src="https://img.shields.io/badge/Project-Environmental_Advocacy_Site-7b2cbf?style=flat-square&labelColor=3c096c" alt="EcoAction Website" />
+<br/><br/>
+<a href="https://github.com/reirie/GE-4120-ELECTIVE/tree/main/ACITVITY%206">
+</a>
+<br/><br/>
+<sub>✨ 🦋 🌙 🦋 ✨</sub>
+<p>I learned how to use AI to create a functional environmental advocacy website through detailed prompts, combining creativity, web design, and interactive features to promote environmental awareness.</p>
+<a href="https://github.com/reirie/GE-4120-ELECTIVE/tree/main/ACITVITY%206">
+<img src="https://img.shields.io/badge/✨_View_Activity_6-7b2cbf?style=for-the-badge&labelColor=3c096c" alt="View Activity 6" />
+</a>
+<br/>
+<sub>╰───── ⋆⋅☆⋅⋆ ─────╯</sub>
+</td>
+
+<td width="29%" valign="top" align="center">
+<sub>╭───── ⋆⋅☆⋅⋆ ─────╮</sub>
+<h4>✨ ACTIVITY 7<br/><i>AI Resume Creation</i></h4>
+<img src="https://img.shields.io/badge/Project-ChatGPT_vs_Gemini_Resumes-7b2cbf?style=flat-square&labelColor=3c096c" alt="AI Resume Creation" />
+<br/><br/>
+<a href="https://github.com/reirie/GE-4120-ELECTIVE/tree/main/ACTIVITY%207">
+</a>
+<br/><br/>
+<sub>✨ 🍄 🌿 🍄 ✨</sub>
+<p>I learned how to use and compare ChatGPT and Gemini AI in creating professional resumes and how their designs, formatting, and generated content differ.</p>
+<a href="https://github.com/reirie/GE-4120-ELECTIVE/tree/main/ACTIVITY%207">
+<img src="https://img.shields.io/badge/✨_View_Activity_7-7b2cbf?style=for-the-badge&labelColor=3c096c" alt="View Activity 7" />
+</a>
+<br/>
+<sub>╰───── ⋆⋅☆⋅⋆ ─────╯</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0aaff,50:9d4edd,100:240046&height=100&section=footer" width="100%" alt="Lavender Footer Wave" />
+
+</div>
 
 </div>
